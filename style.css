@@ -1,0 +1,43 @@
+body{
+    font-family: 'Newsreader', serif;
+    background-color: white;
+}
+
+.image-responsive{
+    height: 300px;
+    width: 400px;
+    border-radius: 20px;
+    
+}
+
+.text_images_and_result{
+    box-shadow: 5px 5px 10px gray;
+    height: 500px;
+    width: 650px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.header_div{
+    background: gray;
+    color: darkorange;
+    padding-left: 60px;
+}
+
+.response{
+    height: 100px;
+    width: 100px;
+}
+
+.text{
+    color: darkviolet;
+    font-size: large;
+}
+
+.root{
+    font-size: medium;
+    font-weight: bold;
+    color: red;
+}
